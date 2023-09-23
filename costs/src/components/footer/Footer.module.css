@@ -1,0 +1,21 @@
+.footer {
+  background-color: #222;
+  color: #fff;
+  width: 100vw;
+  height: 100px;
+  text-align: center;
+}
+
+.social_list {
+  display: flex;
+  justify-content: center;
+  background-color: #222;
+}
+
+.social_list li {
+  margin: 1em 1em;
+}
+
+.social_list li:hover {
+  opacity: 0.4;
+}
