@@ -4,7 +4,7 @@ import styles from "./footer.module.css"
 export default function Footer() {
   return (
     <footer className={styles.footer}>
-      <h1>TESTANDO GIT</h1>
+      <h1>TESTANDO GIT2</h1>
       <ul className={styles.social_list}>
         <li>
           <FaFacebook />
