@@ -9,6 +9,7 @@ export default function Footer() {
           <FaFacebook />
         </li>
         <li>
+          <h1>TESTANDO</h1>
           <FaInstagram />
         </li>
         <li>
